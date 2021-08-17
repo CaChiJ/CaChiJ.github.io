@@ -1,4 +1,5 @@
 User-agent: *
+Allow: /html/
 Disallow: /data/
 Disallow: /css/
 Disallow: /js/
